@@ -20,7 +20,7 @@
 
 title: Artikel Hacker
 email: artikelhacker@gmail.com
-description: Penggiat hacker and hacking baik yang berada di blue team maupun di red team 
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artikelhacker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artikelhacker
@@ -30,9 +30,6 @@ github_username:  artikelhacker
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-#theme: minima
-#plugins:
-#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
