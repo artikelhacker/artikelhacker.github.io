@@ -6,5 +6,5 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://artikelhacker.github.io/QRIS.jpeg" width="50%">
+<img src="https://artikelhacker.github.io/assets/img/QRIS.jpeg" width="50%">
 
