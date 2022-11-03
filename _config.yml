@@ -20,8 +20,7 @@
 
 title: Artikel Hacker
 email: artikelhacker@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Penggiat hacker and hacking baik yang berada di blue team maupun di red team 
+description: Penggiat hacker and hacking baik yang berada di blue team maupun di red team 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artikelhacker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artikelhacker
