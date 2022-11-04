@@ -20,7 +20,7 @@
 
 title: ArtikelHacker
 email: artikelhacker@gmail.com
-description: "Blog mengenai hacking baik #blueteam maupun #redteam"
+description: "Blog mengenai hacking, baik #blueteam maupun #redteam"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artikelhacker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  artikelhacker
