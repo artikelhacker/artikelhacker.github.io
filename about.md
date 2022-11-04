@@ -9,6 +9,10 @@ categories:
 - 2022
 ---
 
+Bersedia memasang pose hacker untuk makanan
+
+Will pose as a hacker for food
+
 <img src="https://artikelhacker.github.io/assets/img/QRIS.jpeg" width="50%">
 
 
