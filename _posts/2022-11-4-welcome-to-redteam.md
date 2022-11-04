@@ -12,3 +12,5 @@ Selamat datang di blog ini. Tidak buruk untuk ukuran pemula kan? Ternyata settin
 Asal ada satu pintu masuk ke konfigurasi yg salah itu, maka seluruh sistem pertahanan menjadi terkompromisasi. Karena itu, kita jg harus mempelajari BlueTeam. Konfigurasi yg salah itu harus diperbaiki. Malah kadang2 konfigurasi yg salah itu di level koding nya. Maka kita jg harus belajar bahasa pemrograman. Wah, ternyata banyak yah yg harus dipelajari oleh RedTeam.
 
 Blog ini bertujuan untuk membedah satu per satu teknik dan cara untuk melakukan peretasan ke komputer lain. Semoga selain menjadi pembelajaran jg bisa menghibur. Karena kebenaran hanya ada satu (shinjitsu wa itsumo hitotsu), wkwkwk.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueMScYOQ05Xvq_J3p2vl75j0SiuaNeEzo4eIoyT__fg&s)
