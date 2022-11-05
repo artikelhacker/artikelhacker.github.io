@@ -1,0 +1,24 @@
+sudo dnf install ruby rubygems ruby-devel gcc gcc-c++ rpm-build
+sudo gem install jekyll bundler
+bundle install
+
+Support for password authentication was removed on August 13, 2021
+cek
+ls -al ~/.ssh
+ssh-keygen -t ed25519 -C "your_email@example.com"
+bikin public private key pair
+bikin passphrase jg
+jalanin agent di belakang layar
+eval "$(ssh-agent -s)"
+tambahin private key ke agent
+ssh-add ~/.ssh/id_ed25519
+tambahin ke github public key nya
+cat ~/.ssh/id_ed25519.pub
+![](https://docs.github.com/assets/cb-34573/images/help/settings/userbar-account-settings.png)
+copy paste isinya ke menu ssh dan gpg keys , new ssh key
+![](https://docs.github.com/assets/cb-47495/images/help/settings/ssh-key-paste-with-type.png)
+pilih authentication key
+title nya diisi, misalnya "personal laptop", tapi isinya bebas yah
+git remote -v
+git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
+git remote set-url origin git@github.com:artikelhacker/artikelhacker.github.io.git

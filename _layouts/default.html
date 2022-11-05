@@ -46,10 +46,10 @@
     {% endfor %}
 
     {% if series.size > 0 %}
-      <div class="row align-items-center">
+      <div class="container align-items-center">
         {% for post in series_post %}
           Serial {{ post.series_title }}
-          <nav class="main-nav">
+          <nav class="section">
             <a href="{{ post.url }}">{{ post.title }}</a>
           </nav>
         {% endfor %}
